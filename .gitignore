@@ -1,0 +1,22 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Java / Maven
+**/target/
+
+# React / Node
+**/node_modules/
+**/dist/
+**/.vite/
+
+# Extracted JAR contents
+**/BOOT-INF/
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
