@@ -182,3 +182,12 @@
     border-right-color: var(--border);
   }
 }
+
+.dark body{
+  background-color:#121212;
+  color:#ffffff;
+}
+.light body {
+  background-color: #ffffff;
+  color: #111111;
+}
